@@ -15,6 +15,9 @@ TensorFlow / Keras
 NumPy
 Jupyter Notebook
 
+<img width="1822" height="957" alt="Screenshot 2025-07-13 192909" src="https://github.com/user-attachments/assets/fc7af1ec-e14e-4de7-ba9a-3f08e9c51940" />
+
+
 ### Made By
 Gargi Patil
 Final Year B.Tech (CSE - AI & ML)
