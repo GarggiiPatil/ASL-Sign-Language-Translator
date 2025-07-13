@@ -1,4 +1,4 @@
-# 🤟 AI-Based Sign Language Translator
+# AI-Based Sign Language Translator
 
 This project is a real-time American Sign Language (ASL) translator that uses deep learning and computer vision to recognize hand gestures through a webcam and convert them into English letters and sentences.
 
